@@ -1,0 +1,50 @@
+{% extends 'store/main.html' %}
+{% load static %}
+{% block content %}
+<div class="row mb-3">
+{% if request.GET.q %}
+        <div class="col-12">
+            Results for {{ request.GET.q }}
+            <hr/>
+        </div>
+        {% else %}
+        <form method='GET' action = '{% url "search" %}' class="form-inline my-2 my-lg-0">
+		  <input class="form-control" type="search" placeholder="Search" name= 'q' aria-label="Search">
+
+		  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+
+		</form>
+        {% endif %}
+    </div>
+<div class = 'col-12'>
+    <br>
+    <hr>
+</div>
+	<div class="row">
+
+
+
+         {% for obj in object_list %}
+		<div class="col-lg-4">
+			<img class="thumbnail" src="/static/images/{{obj.id}}.jpg">
+			<div class="box-element product">
+				<th><h5>Item: <strong>{{forloop.counter}}</strong></h5></th>
+				<h6><strong>{{obj.name}}</strong></h6>
+				<hr>
+
+				<button  class="btn btn-outline-secondary add-btn">Add to Cart</button>
+				<a class="btn btn-outline-success" href="#">View</a>
+				<h4 style="display: inline-block; float: right"><strong>₹{{obj.selling_price|floatformat:2}}</strong></h4>
+
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+
+{% endblock content %}
+
+<!--{% for obj in object_list %}-->
+
+<!--{{ obj.name }} <br/>-->
+
+<!--{% endfor %}-->

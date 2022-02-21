@@ -1,0 +1,301 @@
+id,name,description,slug,profile_pic,email,address,phone,active,pickup,delivery
+1,Jerde- Parker and Bednar,Triple-buffered,1,http://dummyimage.com/193x143.png/dddddd/000000,gmollin0@liveinternet.ru,213 Thackeray Terrace,963-464-6799,1,1,0
+2,Gislason and Sons,secondary,2,http://dummyimage.com/105x239.png/dddddd/000000,jwestmacott1@netlog.com,775 Hansons Road,806-557-7667,0,0,0
+3,Schmeler LLC,info-mediaries,3,http://dummyimage.com/124x105.jpg/ff4444/ffffff,mmacgahy2@clickbank.net,0868 Kinsman Crossing,794-788-8290,0,0,1
+4,Bins Inc,Managed,4,http://dummyimage.com/219x236.png/5fa2dd/ffffff,vtulleth3@discuz.net,947 Charing Cross Pass,858-791-3578,0,1,1
+5,Wolff-Barton,open system,5,http://dummyimage.com/115x186.bmp/ff4444/ffffff,fkuhlmey4@de.vu,24934 Summerview Circle,778-509-2878,1,1,1
+6,Pouros- Braun and Rohan,productivity,6,http://dummyimage.com/141x171.png/cc0000/ffffff,cwharf5@lycos.com,97 Glacier Hill Junction,440-682-3468,0,1,0
+7,Murray-Schaefer,homogeneous,7,http://dummyimage.com/107x154.bmp/ff4444/ffffff,kgergus6@plala.or.jp,341 Sauthoff Parkway,737-728-5538,1,1,1
+8,Halvorson- Maggio and Mayer,Persevering,8,http://dummyimage.com/164x199.jpg/cc0000/ffffff,kdallewater7@ask.com,21 Nobel Plaza,233-329-7295,0,1,1
+9,Williamson-Strosin,Organized,9,http://dummyimage.com/106x246.jpg/dddddd/000000,mmccandie8@qq.com,215 Cardinal Court,887-132-9562,1,1,0
+10,Pollich-Ledner,clear-thinking,10,http://dummyimage.com/169x208.png/dddddd/000000,ggrinyer9@theatlantic.com,14358 Derek Plaza,292-185-7947,0,1,1
+11,Heller Group,solution-oriented,11,http://dummyimage.com/105x204.bmp/5fa2dd/ffffff,nphilliskirka@stanford.edu,46143 Kedzie Circle,936-442-1656,1,1,0
+12,Satterfield-Denesik,object-oriented,12,http://dummyimage.com/208x122.jpg/dddddd/000000,obonnierb@wordpress.org,30176 Aberg Point,147-616-2076,1,1,1
+13,Labadie-Mosciski,optimizing,13,http://dummyimage.com/116x237.png/5fa2dd/ffffff,ojothamc@tinyurl.com,0253 Memorial Plaza,890-929-5217,0,0,0
+14,Kling-Hills,background,14,http://dummyimage.com/110x107.png/cc0000/ffffff,mlebarreed@nba.com,38 Continental Pass,668-496-3380,1,0,1
+15,Connelly-Crona,Customizable,15,http://dummyimage.com/161x160.bmp/5fa2dd/ffffff,blapadulae@barnesandnoble.com,542 Logan Point,306-787-8605,0,0,0
+16,Waelchi-Turcotte,function,16,http://dummyimage.com/224x103.jpg/dddddd/000000,ichretienf@hibu.com,28 Michigan Road,240-787-0437,1,0,1
+17,Kassulke- Cruickshank and Heaney,neural-net,17,http://dummyimage.com/250x137.jpg/ff4444/ffffff,hdalling@canalblog.com,24900 High Crossing Center,571-426-8228,1,0,0
+18,Johnson and Sons,encoding,18,http://dummyimage.com/229x130.bmp/ff4444/ffffff,tpittsh@tripod.com,85407 Bartelt Terrace,216-876-4504,0,0,0
+19,Schuster-Will,background,19,http://dummyimage.com/244x128.jpg/ff4444/ffffff,hjozwiaki@smh.com.au,80 Spenser Plaza,731-417-7158,1,0,1
+20,Ebert-Cronin,Reverse-engineered,20,http://dummyimage.com/235x185.png/cc0000/ffffff,aessebyj@columbia.edu,01 Carey Park,881-509-7425,0,0,0
+21,Rolfson-Jenkins,customer loyalty,21,http://dummyimage.com/224x100.bmp/dddddd/000000,mnareyk@google.es,635 Fallview Terrace,786-692-9319,0,0,1
+22,Mraz-Predovic,middleware,22,http://dummyimage.com/195x181.png/ff4444/ffffff,sscholzl@dot.gov,31362 Roth Lane,531-510-6617,0,0,1
+23,Bogan and Sons,Realigned,23,http://dummyimage.com/129x123.png/ff4444/ffffff,jtwinbornem@e-recht24.de,5384 Lake View Park,715-626-6149,0,1,1
+24,Toy-Welch,encryption,24,http://dummyimage.com/156x142.png/cc0000/ffffff,kcapeln@1688.com,8021 Hudson Road,641-307-9226,1,0,1
+25,Auer- Upton and Baumbach,Advanced,25,http://dummyimage.com/146x160.png/ff4444/ffffff,mcasieroo@storify.com,65 Oneill Point,781-549-0939,0,0,1
+26,Mitchell- Tromp and Wilkinson,bi-directional,26,http://dummyimage.com/184x183.png/cc0000/ffffff,lchellp@blogger.com,4571 Oneill Center,229-733-1701,1,1,1
+27,Berge-Franecki,Distributed,27,http://dummyimage.com/129x152.png/dddddd/000000,ablasioq@ihg.com,3850 Warner Trail,811-408-5041,1,1,0
+28,Ward- Abernathy and Kemmer,help-desk,28,http://dummyimage.com/105x225.png/cc0000/ffffff,elatekr@posterous.com,179 Springs Terrace,579-845-6415,0,0,0
+29,Halvorson-Dare,background,29,http://dummyimage.com/245x221.png/5fa2dd/ffffff,nkynges@merriam-webster.com,02361 Hayes Avenue,667-143-7015,1,1,1
+30,Kling LLC,modular,30,http://dummyimage.com/249x157.png/cc0000/ffffff,dcoldridget@answers.com,19 Golden Leaf Crossing,423-621-7198,0,1,1
+31,Turcotte-Schmidt,Realigned,31,http://dummyimage.com/214x240.png/dddddd/000000,msuggeu@springer.com,768 Bartelt Street,375-424-8248,0,0,1
+32,Bode-Gorczany,even-keeled,32,http://dummyimage.com/118x200.bmp/ff4444/ffffff,tjacsonv@theglobeandmail.com,7512 Bunting Parkway,518-809-4671,0,0,0
+33,Kerluke- Dooley and Crona,Progressive,33,http://dummyimage.com/121x206.bmp/ff4444/ffffff,vblucherw@vimeo.com,00808 Hoffman Junction,999-123-6317,0,0,0
+34,Runolfsdottir-Von,asymmetric,34,http://dummyimage.com/152x235.png/dddddd/000000,rcolloffx@upenn.edu,336 Lukken Center,936-825-7859,0,1,1
+35,Hintz-Monahan,Graphic Interface,35,http://dummyimage.com/250x236.bmp/dddddd/000000,fmcmulleny@istockphoto.com,9 Lien Alley,714-141-7939,0,0,0
+36,Jerde-Bahringer,zero administration,36,http://dummyimage.com/170x129.jpg/5fa2dd/ffffff,igladtbachz@example.com,4 Cardinal Terrace,266-205-9099,1,0,1
+37,Schimmel-Wunsch,internet solution,37,http://dummyimage.com/179x113.png/ff4444/ffffff,cpetkens10@si.edu,99 Montana Crossing,215-649-2007,1,0,0
+38,Smitham Inc,non-volatile,38,http://dummyimage.com/239x146.jpg/5fa2dd/ffffff,rcornier11@hexun.com,4255 Hallows Place,529-846-9053,1,1,1
+39,Senger- Wisoky and Hudson,synergy,39,http://dummyimage.com/173x203.bmp/ff4444/ffffff,crussel12@opensource.org,3379 Grasskamp Lane,747-605-9481,1,1,1
+40,Grant Group,Programmable,40,http://dummyimage.com/169x204.bmp/cc0000/ffffff,ptrevor13@biglobe.ne.jp,440 Eagle Crest Avenue,567-425-0897,1,1,1
+41,Brekke and Sons,attitude-oriented,41,http://dummyimage.com/229x165.bmp/dddddd/000000,gyter14@last.fm,32649 Boyd Avenue,550-321-2253,0,1,0
+42,Kutch-Marvin,Focused,42,http://dummyimage.com/169x245.bmp/ff4444/ffffff,eholliar15@sitemeter.com,63 Oriole Terrace,971-494-5334,1,1,0
+43,Orn- Hessel and Kuphal,needs-based,43,http://dummyimage.com/148x109.bmp/5fa2dd/ffffff,slafontaine16@latimes.com,31 Dawn Road,437-396-0045,0,1,0
+44,Braun-Miller,6th generation,44,http://dummyimage.com/100x191.bmp/dddddd/000000,sjenik17@toplist.cz,453 Rockefeller Place,467-626-1264,1,1,1
+45,Prohaska- Terry and Goldner,value-added,45,http://dummyimage.com/206x148.jpg/cc0000/ffffff,tdoberer18@odnoklassniki.ru,34867 Tomscot Trail,893-934-5869,0,1,1
+46,Schuppe- Hirthe and Lakin,Triple-buffered,46,http://dummyimage.com/206x104.jpg/5fa2dd/ffffff,lcolwill19@va.gov,5 Northview Way,704-903-0192,1,0,0
+47,Marquardt and Sons,superstructure,47,http://dummyimage.com/160x200.jpg/ff4444/ffffff,cblague1a@redcross.org,65 Eagan Drive,578-943-0502,0,0,0
+48,Towne Inc,algorithm,48,http://dummyimage.com/198x176.bmp/dddddd/000000,gkershow1b@hc360.com,74 Loeprich Plaza,638-856-8490,0,1,1
+49,Robel and Sons,time-frame,49,http://dummyimage.com/163x171.bmp/cc0000/ffffff,arockliffe1c@indiatimes.com,2850 Riverside Terrace,500-864-6947,0,1,1
+50,Bosco- Hermann and Auer,Graphic Interface,50,http://dummyimage.com/169x185.png/dddddd/000000,abrosch1d@nytimes.com,742 Daystar Parkway,149-890-4873,1,1,1
+51,Little-Langworth,instruction set,51,http://dummyimage.com/240x128.jpg/5fa2dd/ffffff,xslyme1e@opensource.org,292 Orin Avenue,111-184-0111,1,0,1
+52,Beatty-Ebert,Graphic Interface,52,http://dummyimage.com/176x174.bmp/dddddd/000000,rscaplehorn1f@usa.gov,439 Eastwood Road,349-228-2194,0,0,1
+53,Rowe Group,explicit,53,http://dummyimage.com/130x229.jpg/cc0000/ffffff,hstuddal1g@google.ca,87163 Park Meadow Pass,989-236-5811,1,0,0
+54,Gulgowski-Ledner,initiative,54,http://dummyimage.com/184x142.png/5fa2dd/ffffff,ghiskey1h@ox.ac.uk,63 Killdeer Center,594-923-1133,0,1,1
+55,Kulas-Deckow,fresh-thinking,55,http://dummyimage.com/207x191.jpg/dddddd/000000,dtassaker1i@hugedomains.com,1 3rd Lane,192-290-7454,0,1,0
+56,Ritchie- Zieme and Barrows,Grass-roots,56,http://dummyimage.com/210x179.jpg/ff4444/ffffff,jrennles1j@mail.ru,74 Anthes Way,324-447-4936,0,1,1
+57,Ullrich-Dooley,groupware,57,http://dummyimage.com/211x224.jpg/ff4444/ffffff,ewanell1k@jiathis.com,846 Manley Place,968-150-6210,0,1,0
+58,Lockman LLC,well-modulated,58,http://dummyimage.com/112x191.png/dddddd/000000,mpagett1l@java.com,19 Thierer Junction,251-910-8271,0,0,0
+59,Marks-Rowe,Reverse-engineered,59,http://dummyimage.com/142x208.png/ff4444/ffffff,cgeram1m@illinois.edu,65 Rowland Road,786-552-3265,0,0,0
+60,Botsford-Heller,Multi-layered,60,http://dummyimage.com/243x212.bmp/ff4444/ffffff,jcompford1n@mlb.com,21 Macpherson Avenue,306-958-6051,0,0,1
+61,Sipes- Lang and Kihn,Distributed,61,http://dummyimage.com/247x155.jpg/cc0000/ffffff,sderycot1o@samsung.com,114 Lakewood Alley,911-291-0192,0,0,1
+62,Hickle and Sons,contingency,62,http://dummyimage.com/157x140.png/ff4444/ffffff,rcurran1p@boston.com,201 Calypso Place,875-463-9363,1,0,1
+63,Hansen and Sons,local area network,63,http://dummyimage.com/152x247.png/dddddd/000000,mmcdonnell1q@nationalgeographic.com,4 Colorado Plaza,941-792-3112,1,0,1
+64,Herman- Heidenreich and Cummerata,Assimilated,64,http://dummyimage.com/213x125.jpg/dddddd/000000,dradloff1r@newsvine.com,841 Canary Lane,688-334-9633,0,1,0
+65,MacGyver-Bailey,Streamlined,65,http://dummyimage.com/156x200.jpg/cc0000/ffffff,lmedley1s@pagesperso-orange.fr,01 Hanover Street,279-159-3671,0,0,0
+66,Schulist-Klein,Balanced,66,http://dummyimage.com/138x241.png/ff4444/ffffff,hassard1t@sbwire.com,4 Harbort Park,846-530-5326,1,1,0
+67,Beatty Group,framework,67,http://dummyimage.com/132x181.png/5fa2dd/ffffff,bpeakman1u@jugem.jp,9002 Scofield Parkway,315-298-9830,0,1,1
+68,Lebsack-Beahan,Business-focused,68,http://dummyimage.com/183x109.jpg/cc0000/ffffff,cgwyn1v@google.com.br,47 Esch Terrace,607-409-8424,1,1,1
+69,Quigley- Boyle and Stracke,solution,69,http://dummyimage.com/111x134.bmp/5fa2dd/ffffff,rcogzell1w@4shared.com,3817 Roth Street,312-932-2987,0,1,0
+70,Wiza- Powlowski and Murphy,system engine,70,http://dummyimage.com/130x207.jpg/cc0000/ffffff,gmeiklejohn1x@arizona.edu,27114 Artisan Road,980-331-1662,1,1,0
+71,Hessel-Will,Re-contextualized,71,http://dummyimage.com/132x158.bmp/cc0000/ffffff,owaddy1y@adobe.com,51109 Lighthouse Bay Court,537-531-7992,1,0,1
+72,Hilpert- Kunde and Turner,Enhanced,72,http://dummyimage.com/212x167.jpg/5fa2dd/ffffff,tmorrid1z@time.com,56191 Meadow Valley Drive,902-627-5594,1,0,1
+73,Okuneva and Sons,product,73,http://dummyimage.com/105x182.jpg/dddddd/000000,awillison20@businessweek.com,023 Springs Alley,604-380-5792,0,1,0
+74,Wiegand-Welch,zero tolerance,74,http://dummyimage.com/168x187.png/dddddd/000000,khurdle21@google.ca,3 Stone Corner Circle,985-704-7874,1,1,0
+75,Gislason and Sons,Monitored,75,http://dummyimage.com/152x155.bmp/5fa2dd/ffffff,jferrie22@wisc.edu,30 Waxwing Plaza,482-754-1135,0,1,1
+76,Barrows-Koch,success,76,http://dummyimage.com/239x199.bmp/dddddd/000000,lmerkel23@imgur.com,54 Spohn Alley,718-721-3385,1,1,0
+77,Rempel-Kovacek,hierarchy,77,http://dummyimage.com/190x181.jpg/5fa2dd/ffffff,vkimblin24@51.la,8236 New Castle Way,500-848-1011,0,1,1
+78,Macejkovic-Kemmer,flexibility,78,http://dummyimage.com/235x238.png/dddddd/000000,rsyrett25@vkontakte.ru,32022 Derek Drive,682-669-9973,1,0,1
+79,Breitenberg-Lesch,client-driven,79,http://dummyimage.com/203x229.jpg/cc0000/ffffff,rarnely26@foxnews.com,76 Emmet Circle,916-496-3548,0,1,0
+80,Sipes-Nolan,Organic,80,http://dummyimage.com/230x111.jpg/dddddd/000000,ahambers27@arizona.edu,29437 Sloan Road,468-266-5727,1,1,0
+81,Harber Inc,exuding,81,http://dummyimage.com/241x193.jpg/ff4444/ffffff,nhales28@rambler.ru,205 Norway Maple Avenue,968-517-4767,0,0,1
+82,McCullough- Lemke and Littel,stable,82,http://dummyimage.com/240x109.jpg/dddddd/000000,mmecco29@state.tx.us,337 Dovetail Way,472-846-9345,0,0,0
+83,Glover- Will and Casper,Multi-channelled,83,http://dummyimage.com/215x234.jpg/cc0000/ffffff,ugheeraert2a@ifeng.com,08367 School Junction,535-198-4604,0,1,0
+84,Jacobson- Boyle and Raynor,structure,84,http://dummyimage.com/130x210.jpg/5fa2dd/ffffff,hchown2b@shop-pro.jp,5547 Swallow Avenue,199-651-0369,1,0,0
+85,Gorczany LLC,benchmark,85,http://dummyimage.com/176x105.jpg/ff4444/ffffff,mluckett2c@w3.org,5376 Havey Center,635-857-2578,1,1,1
+86,Kuhlman- Huel and Hirthe,asynchronous,86,http://dummyimage.com/145x152.jpg/dddddd/000000,lwestfrimley2d@walmart.com,60 Ryan Junction,173-668-6204,0,1,1
+87,Satterfield- Bernier and O'Kon,challenge,87,http://dummyimage.com/225x235.png/cc0000/ffffff,ccorkel2e@time.com,03 Alpine Road,533-582-9487,0,1,0
+88,Kuhic Inc,array,88,http://dummyimage.com/148x225.jpg/ff4444/ffffff,laslam2f@wp.com,6918 Rowland Junction,133-315-7273,1,1,1
+89,Krajcik- Hirthe and Metz,migration,89,http://dummyimage.com/210x173.png/5fa2dd/ffffff,jharms2g@latimes.com,6 Mifflin Court,410-297-2078,0,0,1
+90,Veum-Jakubowski,firmware,90,http://dummyimage.com/199x224.jpg/dddddd/000000,cidill2h@xing.com,360 Troy Center,178-610-3657,1,1,0
+91,Langosh-Klein,Intuitive,91,http://dummyimage.com/145x214.bmp/cc0000/ffffff,elazonby2i@xinhuanet.com,994 Eggendart Pass,984-520-4382,0,1,1
+92,Sawayn and Sons,product,92,http://dummyimage.com/174x173.bmp/cc0000/ffffff,tbenson2j@ameblo.jp,55116 Emmet Court,639-966-9441,1,1,1
+93,Parisian-Hermiston,Programmable,93,http://dummyimage.com/240x202.bmp/ff4444/ffffff,kbern2k@ted.com,8 Coleman Court,838-529-7192,0,0,1
+94,Rogahn-Heathcote,Fully-configurable,94,http://dummyimage.com/164x203.jpg/5fa2dd/ffffff,jgooden2l@independent.co.uk,81 Marcy Drive,816-247-0526,1,1,0
+95,Altenwerth- Hilpert and Pagac,Programmable,95,http://dummyimage.com/146x167.jpg/5fa2dd/ffffff,pradleigh2m@123-reg.co.uk,201 Meadow Valley Street,823-273-6171,0,1,1
+96,Bruen Inc,regional,96,http://dummyimage.com/124x151.png/cc0000/ffffff,skingsbury2n@nsw.gov.au,00 Morningstar Center,957-846-4509,0,0,0
+97,Buckridge- Bode and Boehm,Business-focused,97,http://dummyimage.com/205x167.bmp/ff4444/ffffff,eellcome2o@prlog.org,00 Laurel Avenue,639-567-9718,1,0,0
+98,Kunde and Sons,Triple-buffered,98,http://dummyimage.com/108x157.jpg/ff4444/ffffff,emcneice2p@opera.com,79116 Bayside Place,810-524-4676,0,1,0
+99,Jacobson- Rolfson and Boehm,Operative,99,http://dummyimage.com/230x141.bmp/dddddd/000000,rbraxton2q@hostgator.com,2 Susan Center,322-782-7534,1,0,0
+100,Treutel-Pfannerstill,systemic,100,http://dummyimage.com/215x114.jpg/cc0000/ffffff,egurling2r@hibu.com,244 Toban Street,859-747-1119,1,1,1
+101,Renner Inc,needs-based,101,http://dummyimage.com/218x207.png/5fa2dd/ffffff,lmitrikhin2s@weebly.com,40 Division Alley,778-248-8511,1,1,1
+102,Moore-Gutkowski,Assimilated,102,http://dummyimage.com/120x244.bmp/ff4444/ffffff,tbelden2t@skyrock.com,61461 Londonderry Street,506-394-9752,0,1,1
+103,Kautzer Group,utilisation,103,http://dummyimage.com/149x145.png/5fa2dd/ffffff,hnodin2u@moonfruit.com,3148 Pleasure Alley,719-543-8482,0,1,0
+104,Mosciski-Powlowski,frame,104,http://dummyimage.com/133x229.bmp/ff4444/ffffff,bregis2v@sphinn.com,0 Granby Terrace,466-371-3218,1,0,0
+105,Ward- Labadie and Crooks,Decentralized,105,http://dummyimage.com/190x160.bmp/ff4444/ffffff,gtrevna2w@tripod.com,626 American Way,755-845-7913,0,1,1
+106,Predovic- Becker and Kemmer,focus group,106,http://dummyimage.com/115x215.bmp/cc0000/ffffff,knote2x@amazon.co.jp,2067 American Ash Way,922-477-2865,0,0,0
+107,Pouros LLC,functionalities,107,http://dummyimage.com/162x171.bmp/dddddd/000000,rtorbard2y@google.it,213 Granby Avenue,904-985-3945,1,0,1
+108,Parker- Quitzon and Shanahan,multimedia,108,http://dummyimage.com/131x124.png/5fa2dd/ffffff,fmeany2z@so-net.ne.jp,1254 Emmet Terrace,752-899-6693,1,0,0
+109,Douglas and Sons,matrices,109,http://dummyimage.com/250x139.png/ff4444/ffffff,cbowman30@moonfruit.com,03846 Main Road,701-645-4952,0,1,1
+110,Reinger-Braun,transitional,110,http://dummyimage.com/159x145.jpg/ff4444/ffffff,ggiamo31@gov.uk,4 Dakota Junction,205-513-3102,0,0,1
+111,Kris-Ruecker,Re-contextualized,111,http://dummyimage.com/238x226.png/ff4444/ffffff,mranklin32@rakuten.co.jp,77332 Kipling Terrace,143-454-9449,0,1,0
+112,Bosco Group,instruction set,112,http://dummyimage.com/228x197.png/dddddd/000000,ndunford33@cyberchimps.com,1 Eliot Lane,226-867-0793,1,0,0
+113,Waelchi- Jerde and Fay,Networked,113,http://dummyimage.com/104x236.bmp/5fa2dd/ffffff,dscarsbrick34@salon.com,8 Gale Alley,348-757-2947,1,1,0
+114,Wunsch- Herman and Blanda,knowledge base,114,http://dummyimage.com/227x164.bmp/cc0000/ffffff,mhillock35@seesaa.net,4 Lyons Hill,627-735-4819,0,1,1
+115,Daniel- Olson and Smith,interactive,115,http://dummyimage.com/224x168.jpg/dddddd/000000,lkiddy36@qq.com,7968 Burning Wood Point,308-211-7401,1,0,1
+116,Lehner- Johns and Prohaska,impactful,116,http://dummyimage.com/218x188.jpg/5fa2dd/ffffff,mreinhard37@tinyurl.com,6515 Cordelia Way,728-965-3124,0,0,0
+117,Jacobson-Dooley,system-worthy,117,http://dummyimage.com/116x166.jpg/5fa2dd/ffffff,gcollumbell38@altervista.org,3066 Veith Crossing,238-669-1184,0,0,0
+118,Schimmel Group,eco-centric,118,http://dummyimage.com/239x119.jpg/dddddd/000000,nmowday39@qq.com,8179 Clove Way,233-864-8226,0,0,1
+119,Klein-Frami,intangible,119,http://dummyimage.com/238x170.png/cc0000/ffffff,ebetho3a@nbcnews.com,14 Susan Park,232-494-5266,0,1,1
+120,Pollich LLC,paradigm,120,http://dummyimage.com/185x202.png/dddddd/000000,cyewdall3b@bloglines.com,1288 Redwing Terrace,223-379-7722,1,0,0
+121,Kessler Inc,Devolved,121,http://dummyimage.com/225x100.bmp/dddddd/000000,cratt3c@purevolume.com,89 Elka Parkway,895-161-8691,1,1,1
+122,Terry- Lueilwitz and Cruickshank,throughput,122,http://dummyimage.com/164x177.bmp/5fa2dd/ffffff,bhollington3d@aboutads.info,7554 Bay Avenue,661-455-6282,0,1,0
+123,O'Conner- Russel and Zulauf,Versatile,123,http://dummyimage.com/192x247.png/ff4444/ffffff,hcrilley3e@discuz.net,5930 Cherokee Junction,596-866-7508,0,0,0
+124,Kihn LLC,regional,124,http://dummyimage.com/184x184.bmp/5fa2dd/ffffff,emccorley3f@amazon.co.jp,9921 Petterle Crossing,388-365-4442,1,1,1
+125,Crona- Morar and Wintheiser,Open-source,125,http://dummyimage.com/226x188.jpg/dddddd/000000,jhagland3g@bloglines.com,5 Hazelcrest Street,861-627-8436,1,1,1
+126,Beatty Group,product,126,http://dummyimage.com/211x160.jpg/cc0000/ffffff,ttenny3h@tamu.edu,1742 Daystar Junction,695-273-2696,0,0,1
+127,West- Mante and Hermann,Decentralized,127,http://dummyimage.com/171x188.jpg/5fa2dd/ffffff,ccoltman3i@e-recht24.de,4 Carberry Circle,920-336-0833,0,0,1
+128,Wiegand LLC,Ergonomic,128,http://dummyimage.com/126x132.png/cc0000/ffffff,cdoherty3j@sourceforge.net,0472 Debra Crossing,217-618-1725,0,1,1
+129,Streich- Mraz and Gaylord,product,129,http://dummyimage.com/161x174.png/5fa2dd/ffffff,cloveard3k@cisco.com,0885 Thompson Trail,170-102-5661,1,0,0
+130,Rolfson-Thiel,modular,130,http://dummyimage.com/108x207.jpg/cc0000/ffffff,ewardale3l@spotify.com,5946 Springs Center,916-437-4493,0,1,1
+131,Botsford- Schuppe and Dickinson,Multi-channelled,131,http://dummyimage.com/184x121.jpg/dddddd/000000,elocke3m@timesonline.co.uk,286 Mccormick Plaza,676-805-4790,0,1,1
+132,Howe-Little,architecture,132,http://dummyimage.com/125x236.png/5fa2dd/ffffff,syvon3n@opera.com,06898 Park Meadow Circle,377-569-6181,0,1,1
+133,Bauch-Larkin,dedicated,133,http://dummyimage.com/162x241.bmp/dddddd/000000,kjago3o@networkadvertising.org,69 Bellgrove Hill,198-205-4842,1,1,0
+134,Kessler- Gislason and Vandervort,Team-oriented,134,http://dummyimage.com/149x167.bmp/5fa2dd/ffffff,apates3p@amazon.co.uk,28749 Nelson Plaza,268-852-7301,1,0,1
+135,Wilderman- Hermann and Wilkinson,explicit,135,http://dummyimage.com/132x228.png/dddddd/000000,ablanking3q@soup.io,20287 Dorton Junction,275-795-7490,1,1,0
+136,Weissnat-Lockman,upward-trending,136,http://dummyimage.com/115x241.jpg/ff4444/ffffff,mologhlen3r@bizjournals.com,550 Schmedeman Hill,859-668-4778,1,1,0
+137,Zemlak-Trantow,radical,137,http://dummyimage.com/102x241.bmp/cc0000/ffffff,ekrolik3s@mac.com,11584 Eagan Way,342-581-8215,1,1,1
+138,Stracke Inc,infrastructure,138,http://dummyimage.com/243x143.jpg/ff4444/ffffff,aduer3t@wunderground.com,8 Armistice Place,715-737-7836,0,1,0
+139,Glover Inc,capacity,139,http://dummyimage.com/151x189.bmp/dddddd/000000,rworboys3u@sakura.ne.jp,0 Village Way,176-167-9021,0,0,0
+140,Schneider-Beier,toolset,140,http://dummyimage.com/189x102.png/dddddd/000000,hanscombe3v@dagondesign.com,627 Badeau Parkway,437-597-1183,1,1,1
+141,Cronin-Lindgren,Visionary,141,http://dummyimage.com/202x226.png/dddddd/000000,fschultze3w@trellian.com,34269 Hansons Pass,876-338-3960,0,0,0
+142,Keeling LLC,local,142,http://dummyimage.com/115x171.jpg/ff4444/ffffff,amilmo3x@wikipedia.org,762 Algoma Street,125-489-8844,1,0,0
+143,Jenkins- Klein and Windler,flexibility,143,http://dummyimage.com/155x139.png/5fa2dd/ffffff,kcaghy3y@shutterfly.com,86 Londonderry Plaza,800-248-8622,0,0,0
+144,Hyatt-Parisian,functionalities,144,http://dummyimage.com/157x248.bmp/ff4444/ffffff,lcheasman3z@cafepress.com,80 Gateway Place,380-498-0046,0,0,1
+145,Von and Sons,Inverse,145,http://dummyimage.com/243x226.jpg/dddddd/000000,gkeerl40@washingtonpost.com,855 Basil Junction,636-683-2549,0,1,0
+146,Mitchell and Sons,infrastructure,146,http://dummyimage.com/250x196.bmp/5fa2dd/ffffff,jnassy41@comcast.net,6885 Talisman Place,765-305-9497,0,0,0
+147,Dicki and Sons,circuit,147,http://dummyimage.com/231x139.jpg/5fa2dd/ffffff,cunderhill42@ftc.gov,47962 Pepper Wood Road,730-575-5942,1,0,0
+148,Trantow- Jaskolski and Beahan,Organic,148,http://dummyimage.com/157x231.bmp/ff4444/ffffff,aburkwood43@dion.ne.jp,6 Hudson Avenue,522-566-5115,1,1,1
+149,Ward and Sons,Exclusive,149,http://dummyimage.com/199x134.png/dddddd/000000,rmonkton44@twitpic.com,5400 Iowa Way,154-843-2806,0,0,1
+150,Orn- Zulauf and Cormier,pricing structure,150,http://dummyimage.com/229x198.bmp/dddddd/000000,owaddington45@theguardian.com,479 Fulton Drive,678-826-7345,1,1,0
+151,Jaskolski- Walker and Howell,explicit,151,http://dummyimage.com/206x154.bmp/ff4444/ffffff,egabbatiss46@mtv.com,31 Dixon Terrace,140-104-2529,1,0,1
+152,Stamm- Friesen and Ankunding,actuating,152,http://dummyimage.com/249x166.bmp/cc0000/ffffff,mpursglove47@xinhuanet.com,089 Linden Place,301-366-0003,1,1,0
+153,Rosenbaum- Hirthe and Fay,matrices,153,http://dummyimage.com/238x113.png/dddddd/000000,ptofano48@cloudflare.com,6 Hudson Plaza,216-309-2700,0,0,0
+154,Mante and Sons,Face to face,154,http://dummyimage.com/194x249.png/dddddd/000000,jshelborne49@qq.com,5 Spaight Junction,998-153-9129,1,1,1
+155,Doyle- Ferry and Marvin,client-driven,155,http://dummyimage.com/210x242.bmp/cc0000/ffffff,npleasance4a@is.gd,5216 Everett Street,747-689-2020,1,0,0
+156,Goodwin LLC,coherent,156,http://dummyimage.com/146x234.jpg/dddddd/000000,tbretelle4b@apache.org,1520 Golden Leaf Place,735-388-5438,0,1,1
+157,Altenwerth Group,bifurcated,157,http://dummyimage.com/144x190.bmp/dddddd/000000,mbonhomme4c@admin.ch,31847 Red Cloud Drive,477-878-1390,1,0,0
+158,Auer- Hahn and Tremblay,secondary,158,http://dummyimage.com/165x240.png/5fa2dd/ffffff,acarolan4d@theguardian.com,6 Drewry Terrace,743-890-4623,0,0,0
+159,Turner- Hickle and Howell,upward-trending,159,http://dummyimage.com/178x124.jpg/dddddd/000000,dbamford4e@archive.org,5907 Kensington Park,151-155-1534,0,1,1
+160,Cormier-Schneider,leading edge,160,http://dummyimage.com/183x184.jpg/ff4444/ffffff,ccharter4f@discovery.com,47 Sherman Avenue,361-728-8517,1,0,0
+161,Hansen- Bartell and Mraz,content-based,161,http://dummyimage.com/182x214.png/ff4444/ffffff,mravens4g@mapy.cz,12473 Mcguire Plaza,266-736-5419,1,0,0
+162,Vandervort- Dicki and Ritchie,Diverse,162,http://dummyimage.com/140x229.png/cc0000/ffffff,alamprey4h@go.com,91290 Twin Pines Circle,905-205-3950,0,1,1
+163,Kiehn- Fisher and Crooks,context-sensitive,163,http://dummyimage.com/145x141.png/5fa2dd/ffffff,amatzeitis4i@foxnews.com,00 Granby Park,644-418-2396,1,0,0
+164,Boyer Inc,responsive,164,http://dummyimage.com/141x177.png/dddddd/000000,emacscherie4j@newsvine.com,0544 Kipling Parkway,227-238-2116,0,0,0
+165,Crona LLC,task-force,165,http://dummyimage.com/186x140.bmp/cc0000/ffffff,rwales4k@moonfruit.com,640 Sommers Alley,318-844-5069,0,1,1
+166,Jacobson LLC,Monitored,166,http://dummyimage.com/108x131.bmp/cc0000/ffffff,akevane4l@e-recht24.de,30484 Birchwood Alley,757-472-0567,1,1,0
+167,Krajcik-Nader,firmware,167,http://dummyimage.com/205x249.png/cc0000/ffffff,xsilvers4m@whitehouse.gov,918 Meadow Vale Plaza,101-212-6002,1,0,1
+168,Rolfson-Schneider,open architecture,168,http://dummyimage.com/140x115.png/ff4444/ffffff,lsmerdon4n@sciencedirect.com,4 Corben Court,995-565-3991,1,1,1
+169,Renner- Haag and Kuphal,info-mediaries,169,http://dummyimage.com/216x215.jpg/5fa2dd/ffffff,ckilgannon4o@ox.ac.uk,60641 Holy Cross Plaza,524-672-5452,0,1,0
+170,Christiansen LLC,productivity,170,http://dummyimage.com/244x178.bmp/ff4444/ffffff,vdibson4p@economist.com,27 School Crossing,683-986-3540,0,0,1
+171,Boyle-Cummerata,Organized,171,http://dummyimage.com/118x101.jpg/cc0000/ffffff,csowerbutts4q@walmart.com,3 Pearson Park,778-713-4949,0,1,0
+172,Stokes and Sons,strategy,172,http://dummyimage.com/166x237.bmp/cc0000/ffffff,ghanscome4r@oaic.gov.au,371 Kropf Court,179-666-4793,1,1,0
+173,White-Wilderman,moratorium,173,http://dummyimage.com/219x243.jpg/ff4444/ffffff,salves4s@ox.ac.uk,33 School Way,843-372-4959,1,1,0
+174,Botsford LLC,Function-based,174,http://dummyimage.com/165x156.png/cc0000/ffffff,mpetraitis4t@nba.com,59 Lillian Street,436-897-2645,1,1,0
+175,Denesik-Pollich,benchmark,175,http://dummyimage.com/163x113.jpg/dddddd/000000,ncianni4u@dmoz.org,11521 Ilene Lane,629-683-1805,0,1,0
+176,Borer- Cummings and Moen,upward-trending,176,http://dummyimage.com/183x114.bmp/cc0000/ffffff,prustan4v@csmonitor.com,16641 Corry Crossing,326-395-7731,1,0,0
+177,Effertz-Bruen,Quality-focused,177,http://dummyimage.com/151x110.png/5fa2dd/ffffff,rcromblehome4w@netscape.com,12 Brentwood Avenue,403-359-3611,1,0,1
+178,Kuphal and Sons,User-friendly,178,http://dummyimage.com/127x171.bmp/cc0000/ffffff,btoffolo4x@about.com,2291 Mitchell Court,508-880-5259,0,0,1
+179,Hyatt- Ullrich and Lind,toolset,179,http://dummyimage.com/207x223.jpg/ff4444/ffffff,tthecham4y@bravesites.com,682 Merrick Drive,446-124-2103,1,1,1
+180,Schmitt- Halvorson and Kautzer,mobile,180,http://dummyimage.com/204x167.bmp/ff4444/ffffff,braden4z@telegraph.co.uk,82246 Morningstar Plaza,795-870-5153,0,0,0
+181,VonRueden- Lehner and Langosh,Reverse-engineered,181,http://dummyimage.com/107x238.jpg/dddddd/000000,idennert50@jugem.jp,0 Karstens Drive,852-262-2391,0,1,1
+182,Kutch LLC,intangible,182,http://dummyimage.com/190x203.bmp/cc0000/ffffff,jduffill51@cyberchimps.com,98 Reindahl Alley,455-435-1376,1,0,1
+183,Rippin Group,portal,183,http://dummyimage.com/229x152.png/ff4444/ffffff,kdisbrey52@behance.net,0213 Claremont Drive,722-522-6413,0,1,1
+184,Bartell Group,web-enabled,184,http://dummyimage.com/212x242.bmp/cc0000/ffffff,dwhile53@over-blog.com,989 Stephen Pass,915-147-3160,0,1,0
+185,Hudson-Halvorson,client-driven,185,http://dummyimage.com/156x244.jpg/5fa2dd/ffffff,htrinbey54@meetup.com,62214 Miller Alley,210-877-2441,0,0,1
+186,Klocko- Huel and Orn,Cross-group,186,http://dummyimage.com/132x178.bmp/cc0000/ffffff,tbalma55@stanford.edu,9050 Eliot Street,648-550-1304,0,0,0
+187,Feest-Beatty,Universal,187,http://dummyimage.com/104x243.png/5fa2dd/ffffff,preadman56@bandcamp.com,6016 Express Crossing,192-138-6521,1,0,0
+188,Huel-Considine,fresh-thinking,188,http://dummyimage.com/119x212.jpg/dddddd/000000,sdarnbrook57@is.gd,9 Hallows Street,814-114-1777,0,0,1
+189,Kohler-Beatty,Open-source,189,http://dummyimage.com/188x115.bmp/5fa2dd/ffffff,mkehir58@youtu.be,44887 Russell Hill,672-992-6317,0,1,0
+190,Torphy-Conroy,Open-source,190,http://dummyimage.com/122x179.bmp/5fa2dd/ffffff,dvolet59@webeden.co.uk,1 Carioca Plaza,992-692-8905,1,1,1
+191,Ritchie- Senger and Kiehn,Optional,191,http://dummyimage.com/230x109.jpg/cc0000/ffffff,ocasseldine5a@usnews.com,46493 Lotheville Road,658-756-0664,1,1,0
+192,Braun and Sons,modular,192,http://dummyimage.com/229x159.jpg/dddddd/000000,wphilipsen5b@ning.com,701 Eagle Crest Plaza,815-905-9039,1,1,1
+193,Wilkinson- Bailey and Schuster,Persistent,193,http://dummyimage.com/109x211.bmp/5fa2dd/ffffff,mlowndsbrough5c@bloglovin.com,6354 Raven Junction,850-295-1120,1,0,1
+194,Stanton-Emard,Decentralized,194,http://dummyimage.com/226x227.bmp/5fa2dd/ffffff,rdelap5d@zimbio.com,516 Hansons Way,868-851-8551,0,0,1
+195,Gleason and Sons,well-modulated,195,http://dummyimage.com/134x111.jpg/cc0000/ffffff,zabrahmovici5e@simplemachines.org,81242 Stuart Terrace,284-536-0368,0,1,1
+196,Koch- VonRueden and King,focus group,196,http://dummyimage.com/204x107.png/dddddd/000000,htudhope5f@slideshare.net,2074 Old Gate Court,725-444-9407,0,1,1
+197,Bergstrom Inc,Up-sized,197,http://dummyimage.com/212x247.bmp/ff4444/ffffff,kbrocklesby5g@elpais.com,9061 Oneill Parkway,289-845-8333,1,0,0
+198,Weimann- Stiedemann and Daniel,24-Jul,198,http://dummyimage.com/247x131.jpg/ff4444/ffffff,agoodhew5h@comsenz.com,376 Doe Crossing Junction,732-809-8450,1,0,1
+199,Senger-Nader,Customer-focused,199,http://dummyimage.com/130x236.bmp/dddddd/000000,agadney5i@reddit.com,028 Utah Junction,482-363-7269,1,1,0
+200,Goodwin- Auer and Robel,methodology,200,http://dummyimage.com/202x138.jpg/5fa2dd/ffffff,ecarwithim5j@howstuffworks.com,02260 Luster Alley,142-307-5380,0,1,1
+201,Hilll-Maggio,User-friendly,201,http://dummyimage.com/202x186.bmp/dddddd/000000,znorrey5k@google.co.uk,95 Mayfield Road,117-229-3804,1,1,0
+202,Botsford- Marvin and Schroeder,Front-line,202,http://dummyimage.com/151x228.bmp/5fa2dd/ffffff,idebrett5l@hugedomains.com,976 Ramsey Center,539-355-1029,0,1,0
+203,Braun- D'Amore and Yundt,paradigm,203,http://dummyimage.com/139x162.jpg/dddddd/000000,tmccraw5m@businessinsider.com,89851 Packers Place,327-208-9480,1,1,0
+204,Breitenberg- Roob and Bode,Monitored,204,http://dummyimage.com/139x211.png/dddddd/000000,rwaber5n@ycombinator.com,503 Blaine Parkway,598-874-5221,0,0,1
+205,Halvorson and Sons,executive,205,http://dummyimage.com/132x219.png/cc0000/ffffff,acud5o@eepurl.com,1 North Pass,380-875-7599,0,1,1
+206,Lueilwitz- Morar and Gutmann,middleware,206,http://dummyimage.com/124x234.png/cc0000/ffffff,jalwin5p@japanpost.jp,2729 Lindbergh Center,263-907-2933,0,0,0
+207,Altenwerth-Ziemann,asynchronous,207,http://dummyimage.com/127x186.bmp/5fa2dd/ffffff,acrane5q@lulu.com,4 Cody Terrace,174-825-0776,1,0,1
+208,Swift-Marvin,intangible,208,http://dummyimage.com/199x208.png/ff4444/ffffff,sfarmery5r@booking.com,3 Moland Alley,386-475-1307,0,0,1
+209,Wuckert- Kiehn and Stokes,open architecture,209,http://dummyimage.com/114x126.jpg/cc0000/ffffff,bripon5s@imdb.com,9 Badeau Way,397-336-5762,1,1,1
+210,Toy- Schowalter and Fritsch,Phased,210,http://dummyimage.com/238x216.bmp/ff4444/ffffff,dfranzonetti5t@cdc.gov,56 Sheridan Circle,526-636-2530,0,0,1
+211,Reilly Inc,radical,211,http://dummyimage.com/148x170.png/5fa2dd/ffffff,omarke5u@hatena.ne.jp,546 Hooker Way,760-283-5433,1,1,0
+212,Bartell-Franecki,matrix,212,http://dummyimage.com/197x167.bmp/cc0000/ffffff,rschole5v@e-recht24.de,3 Fairfield Plaza,846-331-2756,0,0,0
+213,Ferry- Turcotte and Watsica,collaboration,213,http://dummyimage.com/182x135.png/cc0000/ffffff,smacphaden5w@prweb.com,6 Northridge Terrace,994-381-2713,1,0,1
+214,Wunsch-Doyle,bi-directional,214,http://dummyimage.com/197x250.jpg/5fa2dd/ffffff,pwedon5x@sun.com,8 Warbler Avenue,100-322-4550,1,0,1
+215,Gusikowski- Smith and Lynch,product,215,http://dummyimage.com/204x127.jpg/5fa2dd/ffffff,ccosby5y@webs.com,81 Sherman Trail,903-255-3960,0,1,0
+216,Moore LLC,Digitized,216,http://dummyimage.com/204x182.jpg/ff4444/ffffff,sfantini5z@senate.gov,79 Ilene Crossing,518-435-0566,0,0,0
+217,Hansen LLC,intermediate,217,http://dummyimage.com/213x132.png/5fa2dd/ffffff,aretallack60@joomla.org,57084 Norway Maple Alley,654-160-0325,1,0,0
+218,Beier Inc,budgetary management,218,http://dummyimage.com/183x201.jpg/ff4444/ffffff,mboutell61@theguardian.com,77 Kinsman Junction,969-868-4076,1,0,1
+219,Dietrich Inc,protocol,219,http://dummyimage.com/155x129.jpg/ff4444/ffffff,lbonnier62@ow.ly,81878 Bonner Junction,954-157-6045,1,1,1
+220,Krajcik- Konopelski and Fadel,Automated,220,http://dummyimage.com/138x178.png/dddddd/000000,fgorman63@fda.gov,9 Anzinger Lane,135-757-2673,1,1,0
+221,Roob- Lang and Kautzer,intangible,221,http://dummyimage.com/207x248.jpg/dddddd/000000,dtettersell64@wikispaces.com,5 Luster Pass,379-842-7443,1,1,1
+222,Pfeffer LLC,Upgradable,222,http://dummyimage.com/186x227.bmp/5fa2dd/ffffff,wogg65@aol.com,240 Shoshone Junction,316-567-2844,0,1,0
+223,Ledner Inc,Profit-focused,223,http://dummyimage.com/201x204.jpg/cc0000/ffffff,clago66@163.com,6 Mosinee Avenue,407-330-7798,1,1,1
+224,Monahan- Rippin and Kub,task-force,224,http://dummyimage.com/127x205.jpg/cc0000/ffffff,wtregien67@ocn.ne.jp,2170 Dovetail Center,713-285-1581,1,1,1
+225,Cole LLC,help-desk,225,http://dummyimage.com/201x216.jpg/ff4444/ffffff,jrobertot68@ibm.com,4 Cardinal Parkway,961-129-6412,1,1,0
+226,Kub-Abshire,matrices,226,http://dummyimage.com/219x232.jpg/cc0000/ffffff,mlinggood69@icq.com,711 Meadow Ridge Pass,383-188-1169,1,1,0
+227,Bashirian- Hilll and Borer,encompassing,227,http://dummyimage.com/183x168.bmp/5fa2dd/ffffff,pcollingwood6a@hhs.gov,26046 Springs Terrace,632-627-2149,1,1,1
+228,Doyle- King and Bartell,web-enabled,228,http://dummyimage.com/110x172.bmp/cc0000/ffffff,cutley6b@seattletimes.com,9 Pond Avenue,361-780-2788,1,1,0
+229,Berge- Stiedemann and Haley,bi-directional,229,http://dummyimage.com/213x187.jpg/5fa2dd/ffffff,rkasher6c@redcross.org,3493 Monterey Plaza,694-136-6636,1,1,0
+230,Braun and Sons,clear-thinking,230,http://dummyimage.com/144x238.bmp/cc0000/ffffff,wlidgard6d@hatena.ne.jp,8472 Transport Terrace,978-294-5673,0,0,1
+231,Prohaska- Schimmel and Kerluke,explicit,231,http://dummyimage.com/160x194.bmp/dddddd/000000,mcadigan6e@woothemes.com,46 Dapin Hill,854-771-8217,0,1,1
+232,Homenick LLC,circuit,232,http://dummyimage.com/132x179.jpg/ff4444/ffffff,shollingby6f@technorati.com,89721 Elka Circle,547-859-1646,1,1,0
+233,Marks-Koepp,Persistent,233,http://dummyimage.com/238x153.png/cc0000/ffffff,mgrcic6g@ezinearticles.com,42385 Holmberg Center,963-395-0977,1,0,1
+234,Moore- Schiller and Harris,Graphical User Interface,234,http://dummyimage.com/182x213.jpg/ff4444/ffffff,jklaessen6h@adobe.com,6 Doe Crossing Plaza,178-362-0513,1,0,1
+235,Cartwright- Kautzer and Abbott,Reverse-engineered,235,http://dummyimage.com/178x225.jpg/5fa2dd/ffffff,dharkin6i@mapquest.com,1220 Anderson Alley,738-183-3116,0,1,0
+236,Gislason Inc,4th generation,236,http://dummyimage.com/131x111.bmp/dddddd/000000,jburdas6j@dagondesign.com,38 Mcguire Center,213-159-6455,1,1,0
+237,Parker Group,capability,237,http://dummyimage.com/129x155.bmp/ff4444/ffffff,sbeven6k@columbia.edu,404 Mayfield Street,626-902-7865,0,1,1
+238,Walsh- Steuber and Flatley,Automated,238,http://dummyimage.com/165x140.bmp/ff4444/ffffff,gvalenta6l@jalbum.net,4066 Forster Place,343-143-9363,0,1,0
+239,Gerlach-Schuster,Universal,239,http://dummyimage.com/167x136.jpg/dddddd/000000,acouchman6m@sitemeter.com,9117 Banding Point,295-502-8763,0,1,1
+240,Mayert Group,superstructure,240,http://dummyimage.com/122x243.bmp/dddddd/000000,wplenderleith6n@pbs.org,7 Mayer Terrace,918-984-7417,1,0,0
+241,Gutmann and Sons,disintermediate,241,http://dummyimage.com/157x146.bmp/dddddd/000000,kmalafe6o@huffingtonpost.com,180 Gina Court,191-693-3479,0,0,1
+242,Crist-Ortiz,moderator,242,http://dummyimage.com/159x149.jpg/dddddd/000000,mricht6p@dedecms.com,2 Erie Crossing,309-749-0080,0,1,1
+243,Altenwerth LLC,Universal,243,http://dummyimage.com/188x138.png/ff4444/ffffff,srowes6q@wikia.com,67 Stuart Way,357-678-8862,0,0,0
+244,Veum- Vandervort and Ernser,Object-based,244,http://dummyimage.com/172x237.png/dddddd/000000,wsimonitto6r@photobucket.com,51647 Mendota Circle,535-198-3100,1,0,1
+245,Oberbrunner-Larson,system engine,245,http://dummyimage.com/219x188.png/cc0000/ffffff,rshank6s@artisteer.com,001 Crescent Oaks Parkway,533-930-6974,0,0,0
+246,Davis-Jenkins,explicit,246,http://dummyimage.com/107x220.jpg/ff4444/ffffff,skirkwood6t@paginegialle.it,69213 Melvin Center,479-769-8706,0,1,0
+247,Schoen- Kuhic and O'Reilly,internet solution,247,http://dummyimage.com/139x152.bmp/dddddd/000000,gjohns6u@amazon.com,23564 Crowley Street,148-233-1689,1,0,1
+248,Parisian and Sons,tertiary,248,http://dummyimage.com/134x185.bmp/5fa2dd/ffffff,wantrack6v@sina.com.cn,5402 Lien Lane,424-582-6652,1,0,1
+249,Upton-Stehr,Secured,249,http://dummyimage.com/236x178.bmp/dddddd/000000,bbuddles6w@purevolume.com,7785 Jenna Alley,292-710-8457,0,1,0
+250,Schiller LLC,customer loyalty,250,http://dummyimage.com/181x181.jpg/cc0000/ffffff,vwavell6x@sbwire.com,8721 Burrows Court,223-533-2080,0,1,1
+251,Hagenes Group,Versatile,251,http://dummyimage.com/214x196.jpg/cc0000/ffffff,tshankle6y@scientificamerican.com,4923 West Alley,925-856-0265,1,0,0
+252,McGlynn Group,frame,252,http://dummyimage.com/172x185.jpg/5fa2dd/ffffff,apays6z@utexas.edu,5 Evergreen Junction,785-868-3451,0,0,0
+253,Kunze and Sons,Expanded,253,http://dummyimage.com/186x192.png/cc0000/ffffff,spippin70@yelp.com,5235 Dakota Way,481-912-5348,1,0,0
+254,Wuckert-Gusikowski,radical,254,http://dummyimage.com/176x206.bmp/cc0000/ffffff,cawin71@blogtalkradio.com,0338 Pond Plaza,735-254-5437,1,1,0
+255,Keebler- Littel and Aufderhar,portal,255,http://dummyimage.com/185x179.bmp/cc0000/ffffff,bblanshard72@parallels.com,69 Farwell Parkway,586-924-1346,0,1,0
+256,Haag- Rice and Klein,mission-critical,256,http://dummyimage.com/107x104.bmp/ff4444/ffffff,igouda73@kickstarter.com,9 Darwin Way,622-983-6579,1,0,1
+257,Windler- Herzog and Beier,incremental,257,http://dummyimage.com/250x230.jpg/5fa2dd/ffffff,ploreit74@yandex.ru,856 Porter Park,625-804-0146,0,1,1
+258,Mraz and Sons,collaboration,258,http://dummyimage.com/193x222.jpg/ff4444/ffffff,mtarrant75@e-recht24.de,48 Fieldstone Park,915-220-0432,0,1,1
+259,Senger-Langosh,Optional,259,http://dummyimage.com/102x200.bmp/cc0000/ffffff,efeighry76@naver.com,57826 Service Parkway,510-991-5013,1,1,0
+260,Veum-Hyatt,Streamlined,260,http://dummyimage.com/105x143.png/cc0000/ffffff,mdefty77@ft.com,10930 Stang Court,676-590-7180,0,0,0
+261,Lind-Gislason,Quality-focused,261,http://dummyimage.com/243x171.png/ff4444/ffffff,oheadon78@sfgate.com,7790 Haas Alley,221-524-0263,0,1,1
+262,Hilpert-DuBuque,Persistent,262,http://dummyimage.com/112x196.bmp/cc0000/ffffff,hbaldree79@sina.com.cn,978 Sherman Junction,705-320-5566,1,1,1
+263,Cummerata-Douglas,moratorium,263,http://dummyimage.com/220x183.png/cc0000/ffffff,dhartnell7a@yahoo.co.jp,456 Logan Way,258-520-2635,1,1,0
+264,Robel LLC,context-sensitive,264,http://dummyimage.com/217x183.png/ff4444/ffffff,elowdwell7b@yahoo.com,58 Sachs Alley,853-606-5553,0,1,1
+265,Koch and Sons,initiative,265,http://dummyimage.com/175x229.png/ff4444/ffffff,jbrilon7c@google.com.au,01408 Sage Terrace,459-120-7232,0,1,1
+266,Schowalter- Reichel and Rippin,Persevering,266,http://dummyimage.com/115x193.png/cc0000/ffffff,crostron7d@theglobeandmail.com,25379 Northwestern Hill,616-946-3346,0,1,0
+267,Adams-Stroman,intangible,267,http://dummyimage.com/210x237.bmp/cc0000/ffffff,jkleinpeltz7e@theglobeandmail.com,737 Debs Circle,423-707-4275,1,1,1
+268,Lindgren-Johnston,discrete,268,http://dummyimage.com/133x210.jpg/ff4444/ffffff,cchown7f@netlog.com,83 Heath Pass,766-950-5161,0,0,0
+269,Lind- McLaughlin and Russel,challenge,269,http://dummyimage.com/179x234.png/dddddd/000000,mbourthouloume7g@goo.ne.jp,14 Talisman Way,835-543-1185,0,0,1
+270,Metz-Quigley,homogeneous,270,http://dummyimage.com/108x107.jpg/5fa2dd/ffffff,kboeter7h@slashdot.org,5 Little Fleur Place,549-439-9939,1,0,1
+271,Gleichner and Sons,extranet,271,http://dummyimage.com/161x100.bmp/cc0000/ffffff,hgoldenofireland7i@mashable.com,1770 Merrick Terrace,701-393-6677,1,0,0
+272,Pagac- Sawayn and Raynor,portal,272,http://dummyimage.com/197x189.bmp/cc0000/ffffff,dwhal7j@sourceforge.net,87020 Northview Plaza,882-442-0833,0,1,0
+273,Mann-Larkin,access,273,http://dummyimage.com/222x216.bmp/dddddd/000000,kdimitrie7k@seesaa.net,799 Coleman Terrace,665-836-0404,1,0,1
+274,Botsford- Wintheiser and Beatty,asymmetric,274,http://dummyimage.com/147x229.jpg/5fa2dd/ffffff,bsterrie7l@ibm.com,93 Union Court,498-662-1430,1,1,0
+275,Monahan LLC,homogeneous,275,http://dummyimage.com/219x214.bmp/ff4444/ffffff,kmudge7m@opera.com,521 Grasskamp Alley,275-921-3827,1,1,1
+276,Paucek-Schneider,Streamlined,276,http://dummyimage.com/134x114.png/cc0000/ffffff,apalleske7n@theguardian.com,1699 Manufacturers Avenue,420-217-8129,1,0,0
+277,Casper Inc,Inverse,277,http://dummyimage.com/183x128.jpg/5fa2dd/ffffff,ejonuzi7o@google.cn,00 Village Green Court,777-137-1024,0,1,1
+278,Gislason Inc,Horizontal,278,http://dummyimage.com/145x154.png/cc0000/ffffff,jrowdell7p@google.de,850 Corben Park,945-692-5493,0,1,1
+279,Ruecker- Corkery and McClure,architecture,279,http://dummyimage.com/223x109.bmp/dddddd/000000,ncapitano7q@google.it,0 Farragut Parkway,997-279-3679,0,0,0
+280,Mayer- Mohr and Runolfsdottir,needs-based,280,http://dummyimage.com/231x143.bmp/ff4444/ffffff,apickervance7r@hugedomains.com,84202 Scott Point,824-653-4960,1,0,0
+281,Yundt-Windler,leading edge,281,http://dummyimage.com/138x175.jpg/dddddd/000000,iallix7s@ovh.net,4 Dexter Court,762-112-1966,1,0,1
+282,Larson- Tromp and Morar,algorithm,282,http://dummyimage.com/175x247.jpg/cc0000/ffffff,cmunning7t@ning.com,73 Onsgard Center,196-330-4934,1,0,0
+283,Kub- Lueilwitz and Bergnaum,contingency,283,http://dummyimage.com/222x105.png/cc0000/ffffff,glorraine7u@live.com,97 Kensington Drive,548-351-1156,1,0,0
+284,Ward-Funk,Quality-focused,284,http://dummyimage.com/128x209.jpg/ff4444/ffffff,olabrow7v@lycos.com,94209 South Center,780-189-4847,1,1,1
+285,Watsica- Wiza and Aufderhar,Adaptive,285,http://dummyimage.com/237x239.jpg/dddddd/000000,nstanman7w@wikispaces.com,871 Sullivan Crossing,624-233-3670,0,0,1
+286,Stamm- Connelly and Stehr,success,286,http://dummyimage.com/232x160.bmp/ff4444/ffffff,mdybell7x@dailymail.co.uk,04 Harbort Way,463-243-2055,0,1,0
+287,Frami Group,circuit,287,http://dummyimage.com/173x108.png/cc0000/ffffff,jemptage7y@4shared.com,07 Starling Lane,991-992-9435,0,0,0
+288,Blanda- Johns and Aufderhar,client-server,288,http://dummyimage.com/107x172.bmp/5fa2dd/ffffff,tscole7z@weibo.com,2797 Canary Center,165-679-0538,0,1,0
+289,Sporer-Bednar,Triple-buffered,289,http://dummyimage.com/192x175.jpg/ff4444/ffffff,anesterov80@usnews.com,028 Oxford Hill,391-864-3574,0,1,0
+290,Parker Inc,contextually-based,290,http://dummyimage.com/189x206.jpg/cc0000/ffffff,halban81@ucoz.com,84 International Point,914-785-0654,1,1,0
+291,Pouros Inc,model,291,http://dummyimage.com/102x110.png/ff4444/ffffff,mcapner82@ycombinator.com,4726 Buhler Avenue,938-148-4639,0,1,0
+292,Abshire-Brekke,hub,292,http://dummyimage.com/138x150.jpg/cc0000/ffffff,oheaps83@diigo.com,3 Crescent Oaks Terrace,473-565-4463,0,1,1
+293,Effertz Group,context-sensitive,293,http://dummyimage.com/222x186.jpg/dddddd/000000,ehemerijk84@google.pl,4249 Lerdahl Parkway,664-591-3708,1,1,1
+294,Donnelly-Jacobson,challenge,294,http://dummyimage.com/159x216.bmp/cc0000/ffffff,mmepsted85@cdbaby.com,2 Farwell Court,300-603-6272,1,1,0
+295,Kling-Blick,zero administration,295,http://dummyimage.com/133x174.bmp/5fa2dd/ffffff,jtante86@elpais.com,87 Superior Crossing,931-247-6020,0,0,0
+296,Windler and Sons,model,296,http://dummyimage.com/222x203.jpg/ff4444/ffffff,mworral87@aol.com,073 Delaware Pass,668-614-6057,1,0,0
+297,Jakubowski-Huels,didactic,297,http://dummyimage.com/157x116.jpg/dddddd/000000,kmelly88@globo.com,60841 Dorton Junction,195-439-6917,1,1,0
+298,West Inc,infrastructure,298,http://dummyimage.com/167x230.jpg/cc0000/ffffff,vcoiley89@youtube.com,185 Eastlawn Way,809-227-6751,0,1,1
+299,Smitham Group,uniform,299,http://dummyimage.com/249x223.jpg/dddddd/000000,aabendroth8a@dropbox.com,0 Hanover Point,519-909-7255,1,0,1
+300,Konopelski-Stokes,installation,300,http://dummyimage.com/219x125.bmp/ff4444/ffffff,rcastro8b@wisc.edu,0535 Anniversary Center,991-152-8028,0,1,1
